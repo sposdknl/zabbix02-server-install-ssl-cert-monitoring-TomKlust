@@ -1,0 +1,3 @@
+$ZBX_SERVER      = '127.0.0.1';
+$ZBX_SERVER_PORT = '10051';
+$ZBX_SERVER_NAME = Klustt'; 
